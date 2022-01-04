@@ -19,3 +19,7 @@ public class Main {
         return new int[]{0,0};
     }
 }
+/*
+   In this outer loop will be taken from i=0 till n-2 and the inner loop will
+   be taken from j=i+1 to til n-1,
+ */
